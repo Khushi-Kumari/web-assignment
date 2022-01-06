@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+.orange{
+    color:orange;
+}
+
+
+.th-container{
+    padding-left: 8%;
+    padding-right: 8%;
+    width:100%
+}
+
+.white{
+    color:white !important;
+}
+
+.bg-orange{
+    background-color: orange;
+    
+}
