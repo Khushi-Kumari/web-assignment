@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/web-assignment/static/css/main.c6cf56ce.css",
+    "main.js": "/web-assignment/static/js/main.4f50db96.js",
+    "static/media/topic.png": "/web-assignment/static/media/topic.be1a869ca0fafd64812b.png",
+    "static/media/logo.png": "/web-assignment/static/media/logo.56f48623552cd4e5ead1.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/web-assignment/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/web-assignment/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/web-assignment/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/watch2.webp": "/web-assignment/static/media/watch2.309a48ea0e9d8b57618e.webp",
+    "static/media/s2.jpg": "/web-assignment/static/media/s2.627d7b0655f27df2fb41.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/web-assignment/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/watch3.jfif": "/web-assignment/static/media/watch3.f6cbf493d6f04bd44495.jfif",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/web-assignment/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/watch1.webp": "/web-assignment/static/media/watch1.c5ab228647996ab54982.webp",
+    "static/media/s1.jpg": "/web-assignment/static/media/s1.cae6ec1696e677ddc697.jpg",
+    "static/media/s3.jfif": "/web-assignment/static/media/s3.0d7c3cb4c8caa1d672e8.jfif",
+    "index.html": "/web-assignment/index.html",
+    "main.c6cf56ce.css.map": "/web-assignment/static/css/main.c6cf56ce.css.map",
+    "main.4f50db96.js.map": "/web-assignment/static/js/main.4f50db96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6cf56ce.css",
+    "static/js/main.4f50db96.js"
+  ]
+}
