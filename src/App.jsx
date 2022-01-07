@@ -53,7 +53,7 @@ function App() {
                 placeholder="Search"
                 aria-label="Search"
               />
-              <button className="btn btn-danger orange" type="submit">
+              <button className="btn-sm btn-danger orange" type="submit">
                 Search
               </button>
             </form>
@@ -135,7 +135,7 @@ function App() {
             
             
             <div className="">
-              <button className="btn btn-success text-white py-2">
+              <button className="btn-sm btn-success text-white ">
                 Extra Offers
               </button>
               <br />
@@ -143,7 +143,7 @@ function App() {
               labore natus vel.
             </div>
             <div className="text-center">
-              <button className="btn bg-orange h4 text-white">Buy Now</button>
+              <button className="btn-sm bg-orange h4 text-white">Buy Now</button>
             </div>
             Alternate Product
             <div className="bg-light d-flex d-lg-block">
@@ -162,7 +162,7 @@ function App() {
                 </span>
                 <br />
                 <span className="oramge h4">Rs 34,000</span>{" "}
-                <button className="btn bg-orange text-white">Order Now</button>
+                <button className="btn-sm bg-orange text-white">Order Now</button>
               </div>
             </div>
           </div>
@@ -193,7 +193,7 @@ function App() {
 
 
             <div className="">
-              <button className="btn btn-success text-white">
+              <button className="btn-sm btn-success text-white">
                 Extra Offers
               </button>
               <br />
@@ -201,7 +201,7 @@ function App() {
               labore natus vel.
             </div>
             <div className="text-center">
-              <button className="btn bg-orange h4 text-white">Buy Now</button>
+              <button className="btn-sm bg-orange h4 text-white">Buy Now</button>
             </div>
             Alternate Product
             <div className="bg-light d-flex d-lg-block">
@@ -220,7 +220,7 @@ function App() {
                 </span>
                 <br />
                 <span className="oramge h4">Rs 34,000</span>{" "}
-                <button className="btn bg-orange text-white">Order Now</button>
+                <button className="btn-sm bg-orange text-white">Order Now</button>
               </div>
             </div>
           </div>
@@ -254,7 +254,7 @@ function App() {
 
 
             <div className="">
-              <button className="btn btn-success text-white">
+              <button className="btn-sm btn-success text-white">
                 Extra Offers
               </button>
               <br />
@@ -262,7 +262,7 @@ function App() {
               labore natus vel.
             </div>
             <div className="text-center">
-              <button className="btn bg-orange h4 text-white">Buy Now</button>
+              <button className="btn-sm bg-orange h4 text-white">Buy Now</button>
             </div>
             Alternate Product
             <div className="bg-light d-flex d-lg-block">
@@ -281,7 +281,7 @@ function App() {
                 </span>
                 <br />
                 <span className="oramge h4">Rs 34,000</span>{" "}
-                <button className="btn bg-orange text-white">Order Now</button>
+                <button className="btn-sm bg-orange text-white">Order Now</button>
               </div>
             </div>
           </div>
